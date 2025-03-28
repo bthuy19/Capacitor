@@ -2,7 +2,7 @@
 ## Install And Run
 - Clone source
 ```
-git clone https://github.com/ron19102004/capacitor-core-html-js.git
+git clone https://github.com/bthuy19/Capacitor.git
 ```
 - Install package
 ```
